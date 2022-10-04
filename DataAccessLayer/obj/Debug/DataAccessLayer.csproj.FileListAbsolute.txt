@@ -1,0 +1,13 @@
+C:\Users\aysen\source\repos\HastaneSistemiSon\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\aysen\source\repos\HastaneSistemiSon\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\aysen\source\repos\HastaneSistemiSon\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\aysen\source\repos\HastaneSistemiSon\DataAccessLayer\bin\Debug\Entity.dll
+C:\Users\aysen\source\repos\HastaneSistemiSon\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\aysen\source\repos\HastaneSistemiSon\DataAccessLayer\bin\Debug\Entity.pdb
+C:\Users\aysen\source\repos\HastaneSistemiSon\DataAccessLayer\bin\Debug\Entity.dll.config
+C:\Users\aysen\source\repos\HastaneSistemiSon\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\aysen\source\repos\HastaneSistemiSon\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\aysen\source\repos\HastaneSistemiSon\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\aysen\source\repos\HastaneSistemiSon\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\aysen\source\repos\HastaneSistemiSon\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\aysen\source\repos\HastaneSistemiSon\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

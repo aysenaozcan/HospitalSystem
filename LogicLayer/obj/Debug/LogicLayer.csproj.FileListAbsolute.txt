@@ -1,0 +1,15 @@
+C:\Users\aysen\source\repos\HastaneSistemiSon\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\aysen\source\repos\HastaneSistemiSon\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\aysen\source\repos\HastaneSistemiSon\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\aysen\source\repos\HastaneSistemiSon\LogicLayer\bin\Debug\Entity.dll
+C:\Users\aysen\source\repos\HastaneSistemiSon\LogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\aysen\source\repos\HastaneSistemiSon\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\aysen\source\repos\HastaneSistemiSon\LogicLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\aysen\source\repos\HastaneSistemiSon\LogicLayer\bin\Debug\Entity.pdb
+C:\Users\aysen\source\repos\HastaneSistemiSon\LogicLayer\bin\Debug\Entity.dll.config
+C:\Users\aysen\source\repos\HastaneSistemiSon\LogicLayer\bin\Debug\EntityFramework.xml
+C:\Users\aysen\source\repos\HastaneSistemiSon\LogicLayer\obj\Debug\LogicLayer.csproj.AssemblyReference.cache
+C:\Users\aysen\source\repos\HastaneSistemiSon\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\aysen\source\repos\HastaneSistemiSon\LogicLayer\obj\Debug\LogicLayer.csproj.CopyComplete
+C:\Users\aysen\source\repos\HastaneSistemiSon\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\aysen\source\repos\HastaneSistemiSon\LogicLayer\obj\Debug\LogicLayer.pdb
